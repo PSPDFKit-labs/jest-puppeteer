@@ -1,7 +1,7 @@
 {
   "name": "@ritz078/spawnd",
   "description": "Spawn a dependent child process.",
-  "version": "4.4.0",
+  "version": "4.5.3",
   "main": "lib/index.js",
   "repository": "https://github.com/smooth-code/jest-puppeteer/tree/master/packages/spawnd",
   "author": "Greg Bergé <berge.greg@gmail.com>",
