@@ -1,5 +1,5 @@
 {
-  "name": "spawnd",
+  "name": "@ritz078/spawnd",
   "description": "Spawn a dependent child process.",
   "version": "4.4.0",
   "main": "lib/index.js",
