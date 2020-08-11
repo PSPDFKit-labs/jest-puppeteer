@@ -25,5 +25,6 @@
     "chalk": "^3.0.0",
     "cwd": "^0.10.0",
     "merge-deep": "^3.0.2"
-  }
+  },
+  "gitHead": "47bd7aa97d89169fe38f474e7f30d0d53b623ccd"
 }

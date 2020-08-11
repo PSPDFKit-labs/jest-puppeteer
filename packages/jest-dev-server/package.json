@@ -18,12 +18,13 @@
     "prepublishOnly": "yarn build"
   },
   "dependencies": {
-    "@ritz078/spawnd": "^4.5.3",
+    "@ritz078/spawnd": "^4.5.4",
     "chalk": "^3.0.0",
     "cwd": "^0.10.0",
     "find-process": "^1.4.3",
     "prompts": "^2.3.0",
     "tree-kill": "^1.2.2",
     "wait-on": "^4.0.0"
-  }
+  },
+  "gitHead": "47bd7aa97d89169fe38f474e7f30d0d53b623ccd"
 }
