@@ -1,5 +1,5 @@
 // eslint-disable-next-line
-import NodeEnvironment from 'jest-environment-node'
+import NodeEnvironment from '@ritz078/jest-environment-node'
 import chalk from 'chalk'
 // eslint-disable-next-line import/no-extraneous-dependencies
 import puppeteer from 'puppeteer'
