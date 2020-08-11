@@ -1,0 +1,11 @@
+0 silly argv { _: [ 'bootstrap' ],
+0 silly argv   lernaVersion: '3.16.4',
+0 silly argv   '$0': '../../.asdf/installs/nodejs/10.16.0/.npm/bin/lerna' }
+1 notice cli v3.16.4
+2 verbose rootPath /Users/ritz078/projects/jest-puppeteer
+3 error Error: Invalid package name "@ritz078//jest-dev-server": name can only contain URL-friendly characters
+3 error     at invalidPackageName (/Users/ritz078/.config/yarn/global/node_modules/npm-package-arg/npa.js:86:15)
+3 error     at Result.setName (/Users/ritz078/.config/yarn/global/node_modules/npm-package-arg/npa.js:121:11)
+3 error     at new Result (/Users/ritz078/.config/yarn/global/node_modules/npm-package-arg/npa.js:111:23)
+3 error     at Function.resolve (/Users/ritz078/.config/yarn/global/node_modules/npm-package-arg/npa.js:58:15)
+3 error     at new Package (/Users/ritz078/.config/yarn/global/node_modules/@lerna/package/index.js:36:26)

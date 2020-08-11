@@ -1,5 +1,5 @@
 {
-  "name": "expect-puppeteer",
+  "name": "@ritz078/expect-puppeteer",
   "description": "Assertion toolkit for Puppeteer.",
   "version": "4.4.0",
   "main": "lib/index.js",

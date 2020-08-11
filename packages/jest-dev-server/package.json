@@ -1,5 +1,5 @@
 {
-  "name": "jest-dev-server",
+  "name": "@ritz078/jest-dev-server",
   "description": "Starts a server before your Jest tests and tears it down after.",
   "version": "4.4.0",
   "main": "index.js",

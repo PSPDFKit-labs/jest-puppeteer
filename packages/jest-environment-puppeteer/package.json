@@ -1,5 +1,5 @@
 {
-  "name": "jest-environment-puppeteer",
+  "name": "@ritz078/jest-environment-puppeteer",
   "description": "Puppeteer environment for Jest.",
   "version": "4.4.0",
   "main": "index.js",
@@ -23,7 +23,7 @@
   "dependencies": {
     "chalk": "^3.0.0",
     "cwd": "^0.10.0",
-    "jest-dev-server": "^4.4.0",
+    "@ritz078/jest-dev-server": "^4.4.0",
     "merge-deep": "^3.0.2"
   }
 }
