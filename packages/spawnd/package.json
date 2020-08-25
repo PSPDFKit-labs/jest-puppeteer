@@ -1,7 +1,7 @@
 {
   "name": "@pspdfkit-labs/spawnd",
   "description": "Spawn a dependent child process.",
-  "version": "4.5.5",
+  "version": "5.0.0",
   "main": "lib/index.js",
   "repository": "https://github.com/smooth-code/jest-puppeteer/tree/master/packages/spawnd",
   "author": "Greg Bergé <berge.greg@gmail.com>",
@@ -27,5 +27,5 @@
     "tree-kill": "^1.2.2",
     "wait-port": "^0.2.7"
   },
-  "gitHead": "47bd7aa97d89169fe38f474e7f30d0d53b623ccd"
+  "gitHead": "55ae07f720ec400d1cff945219788b9483f0ac81"
 }

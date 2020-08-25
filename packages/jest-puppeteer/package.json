@@ -1,7 +1,7 @@
 {
   "name": "@pspdfkit-labs/jest-puppeteer",
   "description": "Run your tests using Jest & Puppeteer.",
-  "version": "4.5.5",
+  "version": "5.0.0",
   "repository": "https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-puppeteer",
   "author": "Greg Bergé <berge.greg@gmail.com>",
   "license": "MIT",
@@ -16,8 +16,8 @@
     "puppeteer": ">= 1.5.0 < 3"
   },
   "dependencies": {
-    "@pspdfkit-labs/expect-puppeteer": "^4.5.5",
-    "@pspdfkit-labs/jest-environment-puppeteer": "^4.5.5"
+    "@pspdfkit-labs/expect-puppeteer": "^5.0.0",
+    "@pspdfkit-labs/jest-environment-puppeteer": "^5.0.0"
   },
-  "gitHead": "47bd7aa97d89169fe38f474e7f30d0d53b623ccd"
+  "gitHead": "55ae07f720ec400d1cff945219788b9483f0ac81"
 }

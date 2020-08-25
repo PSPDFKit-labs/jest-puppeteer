@@ -1,7 +1,7 @@
 {
   "name": "@pspdfkit-labs/jest-dev-server",
   "description": "Starts a server before your Jest tests and tears it down after.",
-  "version": "4.5.5",
+  "version": "5.0.0",
   "main": "index.js",
   "repository": "https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-dev-server",
   "author": "Greg Bergé <berge.greg@gmail.com>",
@@ -18,7 +18,7 @@
     "prepublishOnly": "yarn build"
   },
   "dependencies": {
-    "@pspdfkit-labs/spawnd": "^4.5.5",
+    "@pspdfkit-labs/spawnd": "^5.0.0",
     "chalk": "^3.0.0",
     "cwd": "^0.10.0",
     "find-process": "^1.4.3",
@@ -26,5 +26,5 @@
     "tree-kill": "^1.2.2",
     "wait-on": "^4.0.0"
   },
-  "gitHead": "47bd7aa97d89169fe38f474e7f30d0d53b623ccd"
+  "gitHead": "55ae07f720ec400d1cff945219788b9483f0ac81"
 }
