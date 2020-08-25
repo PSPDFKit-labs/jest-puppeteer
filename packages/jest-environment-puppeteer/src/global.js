@@ -4,7 +4,7 @@ import {
   teardown as teardownServer,
   ERROR_TIMEOUT,
   ERROR_NO_COMMAND,
-} from '@ritz078/jest-dev-server'
+} from '@pspdfkit-labs/jest-dev-server'
 import chalk from 'chalk'
 // eslint-disable-next-line import/no-extraneous-dependencies
 import puppeteer from 'puppeteer'

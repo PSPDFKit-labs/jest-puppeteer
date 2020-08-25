@@ -1,5 +1,5 @@
 {
-  "name": "@ritz078/spawnd",
+  "name": "@pspdfkit-labs/spawnd",
   "description": "Spawn a dependent child process.",
   "version": "4.5.4",
   "main": "lib/index.js",

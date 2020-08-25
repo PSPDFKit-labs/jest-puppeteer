@@ -1,5 +1,5 @@
 {
-  "name": "@ritz078/jest-environment-puppeteer",
+  "name": "@pspdfkit-labs/jest-environment-puppeteer",
   "description": "Puppeteer environment for Jest.",
   "version": "4.5.4",
   "main": "index.js",
@@ -21,7 +21,7 @@
     "prepublishOnly": "yarn build"
   },
   "dependencies": {
-    "@ritz078/jest-dev-server": "^4.5.4",
+    "@pspdfkit-labs/jest-dev-server": "^4.5.4",
     "chalk": "^3.0.0",
     "cwd": "^0.10.0",
     "merge-deep": "^3.0.2"

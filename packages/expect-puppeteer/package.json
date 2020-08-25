@@ -1,5 +1,5 @@
 {
-  "name": "@ritz078/expect-puppeteer",
+  "name": "@pspdfkit-labs/expect-puppeteer",
   "description": "Assertion toolkit for Puppeteer.",
   "version": "4.5.1",
   "main": "lib/index.js",
